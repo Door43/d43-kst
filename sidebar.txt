@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kst:home|Door43 (kst)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kst|d43-kst repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kst/archive/master.zip|d43-kst.zip]]
+
+**Recent Changes**
+{{changes>ns = kst}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kst|Ethnologue data]]
+
